@@ -55,4 +55,4 @@ Markdown documentation
 
 - Suggestions for improvements
 - Notes or feedback on presentations
-- Corrections or updates please feel free to reach out to me on [Twitter](https://x.com/AsanteNtiro) @AsanteNtiro
+- Corrections or updates please feel free to reach out to me on Twitter [@AsanteNtiro](https://x.com/AsanteNtiro)
