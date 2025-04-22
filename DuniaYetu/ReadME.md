@@ -1,0 +1,3 @@
+On the 4th day of the 1st DuniaYetu coding cohort (that's a mouth full!) we had a light hearted discussion on smart contracts, what they are, big milestones in their history (and my favorite rap albums!), different smart contract platforms, what gas is, and why gas is important. We then finished off the discussion with a dialog on some smart contract applications.
+
+You can find the online version of this presentation with all the fun GIFs on canva [here](https://www.canva.com/design/DAGlSTmiTJQ/w-qTdA6U5AeMd0q0hNI1tQ/view?utm_content=DAGlSTmiTJQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h24c47977e4)
