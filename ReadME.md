@@ -6,12 +6,14 @@ Contents
 ### DuniaYetu
 
 - Day 4 of DuniaYetu's first cohort WTF are Smart Contracts?
+  You can find the online version of the presentation (WITH GIFS!) [here](https://www.canva.com/design/DAGlSTmiTJQ/w-qTdA6U5AeMd0q0hNI1tQ/view?utm_content=DAGlSTmiTJQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h24c47977e4)
 
 
 ### Chatafisha X UDSM
 
 - Week 1: Introduction to Blockchain Technology
 - Week 2: Stablecoins & NFTs (Beyond the hype)
+
 
 ### Larven
 
@@ -20,7 +22,7 @@ Contents
 
 ### Base
 
--  Web3 Introduction (Available in Swahili)
+- An Introduction to Web3 (Available in Swahili)
 - Multimedia resources including slides and video content
 
 
@@ -54,32 +56,32 @@ Video content
 Supporting images
 Markdown documentation
 
-## Repository Structure
-```tree
-.
-├── blockchain-web3/
-│   ├── chatafisha-udsm/
-│   │   ├── week1-intro/
-│   │   └── week2-stablecoins-nfts/
-│   ├── larven/
-│   │   └── blockchain-overview/
-│   └── base/
-│       └── web3-intro-sw/
-├── conferences/
-│   ├── pycon-2022/
-│   └── darasa-tech/
-│       └── prompt-engineering/
-├── media/
-│   ├── images/
-│   └── videos/
-└── resources/
-    ├── slides/
-    └── documentation/
+### Repository tree
 ```
-
+.
+├── base
+│   ├── Based In Dar
+│   ├── Web3 ni nini
+├── Chatafisha X UDSM
+│   ├── Week 1 - Introduction to Blockchain Technology
+│   └── Week 2 - Stablecoins & NFTs (Beyond the hype)
+├── darasatech
+│   └── Prompt Engineering - Darasa Tech
+├── DuniaYetu
+│   └── Day 4 Introduction to Smart Contracts
+├── Larven
+│   └── Ntiro's Larven Blockchain Presentation PDF
+├── PyCon 2022
+│   ├── Full.jpg
+│   ├── IMG_20221202_182139_788.jpg
+│   └── IMG_20221209_001949_610.jpg
+├── ReadME.md
+└── Zanzalu
+    └── _VIN0717.jpg
+```
 ## Contributing
 #### Contributions are welcome! If you have:
 
 - Suggestions for improvements
 - Notes or feedback on presentations
-- Corrections or updates please feel free to reach out to me on Twitter [@AsanteNtiro](https://x.com/AsanteNtiro)
+- For corrections or updates please feel free to reach out to me on Twitter [@AsanteNtiro](https://x.com/AsanteNtiro)
