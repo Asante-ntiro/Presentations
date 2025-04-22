@@ -3,11 +3,15 @@ This repository contains a collection of my public presentations, conference mat
 Contents
 ## Blockchain & Web3
 
+### DuniaYetu
+
+- Day 4 of DuniaYetu's first cohort WTF are Smart Contracts?
+
+
 ### Chatafisha X UDSM
 
 - Week 1: Introduction to Blockchain Technology
 - Week 2: Stablecoins & NFTs (Beyond the hype)
-
 
 ### Larven
 
@@ -49,6 +53,29 @@ PowerPoint files
 Video content
 Supporting images
 Markdown documentation
+
+## Repository Structure
+```tree
+.
+├── blockchain-web3/
+│   ├── chatafisha-udsm/
+│   │   ├── week1-intro/
+│   │   └── week2-stablecoins-nfts/
+│   ├── larven/
+│   │   └── blockchain-overview/
+│   └── base/
+│       └── web3-intro-sw/
+├── conferences/
+│   ├── pycon-2022/
+│   └── darasa-tech/
+│       └── prompt-engineering/
+├── media/
+│   ├── images/
+│   └── videos/
+└── resources/
+    ├── slides/
+    └── documentation/
+```
 
 ## Contributing
 #### Contributions are welcome! If you have:
